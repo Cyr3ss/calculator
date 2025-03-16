@@ -1,0 +1,8 @@
+Input 1:
+2 + 3
+
+Input 2:
+sqrt(16)
+
+Input 3:
+10/0
